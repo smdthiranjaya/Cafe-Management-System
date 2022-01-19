@@ -1,0 +1,111 @@
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Cafe_Management_System.exe.config
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Cafe_Management_System.exe
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Cafe_Management_System.pdb
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Guna.UI2.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\MetroFramework.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\MetroFramework.Fonts.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.csprojAssemblyReference.cache
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.csproj.GenerateResource.cache
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.csproj.CoreCompileInputs.cache
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.csproj.CopyComplete
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.exe
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.pdb
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\SkiaSharp.dll.config
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\libSkiaSharp.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\libSkiaSharp.dylib
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\x86\libSkiaSharp.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\x64\libSkiaSharp.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\SkiaSharp.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\SkiaSharp.Views.Forms.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Stormlion.ShapeControl.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Core.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Platform.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\SkiaSharp.xml
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Core.pdb
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Core.xml
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.login.resources
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.Dashboard.resources
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_Welcome.resources
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_AddItems.resources
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_PlaceOrder.resources
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_Update.resources
+E:\GUI projct\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_RemoveItem.resources
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\SkiaSharp.dll.config
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\libSkiaSharp.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\libSkiaSharp.dylib
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\x86\libSkiaSharp.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\x64\libSkiaSharp.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Cafe_Management_System.exe.config
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Cafe_Management_System.exe
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Cafe_Management_System.pdb
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Guna.UI2.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\MetroFramework.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\MetroFramework.Fonts.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\SkiaSharp.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\SkiaSharp.Views.Forms.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Stormlion.ShapeControl.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Core.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Platform.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\SkiaSharp.xml
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Core.pdb
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Core.xml
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\C#\Cafe_Management_System\Cafe_Management_System\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.csprojAssemblyReference.cache
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_AddItems.resources
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_PlaceOrder.resources
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_RemoveItem.resources
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_Update.resources
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_Welcome.resources
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.login.resources
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.Dashboard.resources
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.csproj.GenerateResource.cache
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.csproj.CoreCompileInputs.cache
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.csproj.CopyComplete
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.exe
+E:\C#\Cafe_Management_System\Cafe_Management_System\obj\Debug\Cafe_Management_System.pdb
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\SkiaSharp.dll.config
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\libSkiaSharp.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\libSkiaSharp.dylib
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Cafe_Management_System.exe.config
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Cafe_Management_System.exe
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Cafe_Management_System.pdb
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Guna.UI2.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\MetroFramework.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\SkiaSharp.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Stormlion.ShapeControl.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\SkiaSharp.xml
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.csprojAssemblyReference.cache
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_AddItems.resources
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_PlaceOrder.resources
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_RemoveItem.resources
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_Update.resources
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.AllUserControl.UC_Welcome.resources
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.login.resources
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.csproj.GenerateResource.cache
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.csproj.CopyComplete
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.exe
+C:\Users\Thiranjaya\Desktop\Cafe_Management_System1\Cafe_Management_System1\Cafe_Management_System\obj\Debug\Cafe_Management_System.pdb
